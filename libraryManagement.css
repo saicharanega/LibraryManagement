@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bgContainer {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/book-search-bg.png");
+    background-size: cover;
+    height: 35vh;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.main-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    color: white;
+}
+
+.containerError {
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto;
+}
+
+
+.input-ele {
+    width: 220px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+
+.bookAuthor {
+    font-size: 14px;
+    color: #323f4b;
+}
